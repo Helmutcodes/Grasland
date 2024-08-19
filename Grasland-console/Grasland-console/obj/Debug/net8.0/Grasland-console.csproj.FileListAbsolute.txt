@@ -1,0 +1,14 @@
+C:\Users\Helmut\Source\Repos\Grasland-console\Grasland-console\bin\Debug\net8.0\Grasland-console.exe
+C:\Users\Helmut\Source\Repos\Grasland-console\Grasland-console\bin\Debug\net8.0\Grasland-console.deps.json
+C:\Users\Helmut\Source\Repos\Grasland-console\Grasland-console\bin\Debug\net8.0\Grasland-console.runtimeconfig.json
+C:\Users\Helmut\Source\Repos\Grasland-console\Grasland-console\bin\Debug\net8.0\Grasland-console.dll
+C:\Users\Helmut\Source\Repos\Grasland-console\Grasland-console\bin\Debug\net8.0\Grasland-console.pdb
+C:\Users\Helmut\Source\Repos\Grasland-console\Grasland-console\obj\Debug\net8.0\Grasland-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Helmut\Source\Repos\Grasland-console\Grasland-console\obj\Debug\net8.0\Grasland-console.AssemblyInfoInputs.cache
+C:\Users\Helmut\Source\Repos\Grasland-console\Grasland-console\obj\Debug\net8.0\Grasland-console.AssemblyInfo.cs
+C:\Users\Helmut\Source\Repos\Grasland-console\Grasland-console\obj\Debug\net8.0\Grasland-console.csproj.CoreCompileInputs.cache
+C:\Users\Helmut\Source\Repos\Grasland-console\Grasland-console\obj\Debug\net8.0\Grasland-console.dll
+C:\Users\Helmut\Source\Repos\Grasland-console\Grasland-console\obj\Debug\net8.0\refint\Grasland-console.dll
+C:\Users\Helmut\Source\Repos\Grasland-console\Grasland-console\obj\Debug\net8.0\Grasland-console.pdb
+C:\Users\Helmut\Source\Repos\Grasland-console\Grasland-console\obj\Debug\net8.0\Grasland-console.genruntimeconfig.cache
+C:\Users\Helmut\Source\Repos\Grasland-console\Grasland-console\obj\Debug\net8.0\ref\Grasland-console.dll
